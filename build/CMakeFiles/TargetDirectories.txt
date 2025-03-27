@@ -1,5 +1,0 @@
-C:/Users/hamto/OneDrive/Documents/.Universidad/Tetri/TetrisGame/build/CMakeFiles/cppTetris.dir
-C:/Users/hamto/OneDrive/Documents/.Universidad/Tetri/TetrisGame/build/CMakeFiles/edit_cache.dir
-C:/Users/hamto/OneDrive/Documents/.Universidad/Tetri/TetrisGame/build/CMakeFiles/rebuild_cache.dir
-C:/Users/hamto/OneDrive/Documents/.Universidad/Tetri/TetrisGame/build/pybind11/CMakeFiles/edit_cache.dir
-C:/Users/hamto/OneDrive/Documents/.Universidad/Tetri/TetrisGame/build/pybind11/CMakeFiles/rebuild_cache.dir
